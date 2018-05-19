@@ -1,5 +1,5 @@
 # matrix-transform
-Coding Challenge
+DocuSign's Coding Challenge
 
 **Version Friday, 2018 May 18, 17:30 PST**
 
@@ -31,6 +31,13 @@ D S C C Q
 ```
 
 ## Implementation
+
+The following code is writtine Python 3.5.4
+
+```bash
+$ python3 --version
+Python 3.5.4
+```
 
 Created two classes:
 
